@@ -1,0 +1,5 @@
+node_modules/
+config.runtime.json
+bin/xray.zip
+bin/xray
+*.log
